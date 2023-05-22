@@ -8,12 +8,12 @@ draft: false
 weight: 50
 images: []
 categories: []
-tags: []
+tags: ["Good", "Bad", "Ugly"]
 contributors: ["Helen Kershaw"]
 pinned: false
 homepage: false
 ---
 
-Introducing code review for Scientific Software.
+Introducing code review for Scientific Software.  
 Helen Kershaw
 
