@@ -31,6 +31,17 @@ After a few seconds you will see your fork.
 
 ![fork created](images/fork-created.png)
 
+### Enable issues
+
+The tutorial makes use of GitHub issues. To enable issues click the `Settings` tab
+
+![settings](images/settings.png)
+
+Scroll down to features and click `Issues`:
+
+![allow issues](images/allow-issues.png)
+
+
 ### Enable read and write permissions for workflows
 
 By default, write permissions are not enabled for workflows.  Write permission is needed
@@ -44,7 +55,8 @@ Then `Actions` -> `General` on the menu on the left
 
 ![actions](images/settings-actions-general.png)
 
-Then enable read and write permissions for workflows and click save:
+Then enable read and write permissions for workflows, and allow GitHub Actions to
+create and approve pull requests and click save:
 
 ![workflow permissions](images/workflow-permissions.png)
 
