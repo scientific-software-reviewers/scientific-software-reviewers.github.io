@@ -44,10 +44,17 @@ Click `Run workflow` to create the exercises. It make take a few seconds to star
 
 ![queued-workflow](images/queued-workflow.png)
 
+Once the workflow is finished, refresh the page and you will see you now have issues and pull requests:
+
+![issues and pull requests created](images/issues-pull-created.png)
+
 
 ### Reset the Exercises
 
 The workflow `reset_exercises` will close all the issues and pull requests associated with the tutorial. 
+
+You are now ready to start the exercises!
+
 
 ![reset-exercises](images/reset-exercises.png)
 
