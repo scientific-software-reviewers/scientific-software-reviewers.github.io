@@ -8,5 +8,12 @@ An online tutorial for Code Review
 Built with [Doks](https://github.com/h-enk/doks) Modern Documentation Theme.
 
 
+local server:  
+`npm run start`
+
+build github version:  
+`npm run build`
+
+
 
 
