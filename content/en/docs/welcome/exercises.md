@@ -45,9 +45,15 @@ Click `Run workflow` to create the exercises. It make take a few seconds to star
 ![queued-workflow](images/queued-workflow.png)
 
 
-
 ### Reset the Exercises
 
+The workflow `reset_exercises` will close all the issues and pull requests associated with the tutorial. 
 
+![reset-exercises](images/reset-exercises.png)
+
+
+Then click `Run workflow` to open up a menu, and click the green `Run workflow` button:
+
+![run-reset](images/run-reset.png)
 
 
