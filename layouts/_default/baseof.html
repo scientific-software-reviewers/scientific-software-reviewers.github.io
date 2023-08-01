@@ -21,6 +21,7 @@
     </div>
     {{ block "sidebar-prefooter" . }}{{ end }}
     {{ block "sidebar-footer" . }}{{ end }}
+    {{ partial "footer/bssw-footer.html" . }}
     {{ partial "footer/footer.html" . }}
     {{ partial "footer/script-footer.html" . }}
     {{ if eq .Site.Params.options.toTopButton true -}}
