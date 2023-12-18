@@ -46,6 +46,19 @@ Click `Run workflow` to create the exercises. It make take a few seconds to star
 
 Once the workflow is finished, refresh the page and you will see you now have issues and pull requests:
 
+### Reset the Exercises
+
 ![issues and pull requests created](images/issues-pull-created.png)
 
+If you would like to close all the issues and pull requests at once, you can use the `reset_exercises` action.  To get to the workflows, click the `Actions` tab
+
+![actions workflows](images/actions-workflows.png) 
+
+Click `reset_exercises` from the menu on the left
+
+![reset-exercises](images/reset-exercises.png)
+
+click `Run workflow` to open up a menu, and click the green `Run workflow` button:
+
+![run-reset](images/run-reset.png)
 

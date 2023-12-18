@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "welcome"
+    parent: "setup"
 weight: 110
 toc: true
 ---
