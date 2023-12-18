@@ -1,5 +1,5 @@
 ---
-title: "Set up the tutorial"
+title: "Set up your fork"
 description: ""
 lead: ""
 date: 2023-07-26T14:06:29-04:00
@@ -12,6 +12,8 @@ menu:
 weight: 120
 toc: true
 ---
+
+To do the tutorial exercises you will need a GitHub account.
 
 ## Setup your fork
 
