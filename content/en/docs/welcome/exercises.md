@@ -49,18 +49,3 @@ Once the workflow is finished, refresh the page and you will see you now have is
 ![issues and pull requests created](images/issues-pull-created.png)
 
 
-### Reset the Exercises
-
-The workflow `reset_exercises` will close all the issues and pull requests associated with the tutorial. 
-
-You are now ready to start the exercises!
-
-
-![reset-exercises](images/reset-exercises.png)
-
-
-Then click `Run workflow` to open up a menu, and click the green `Run workflow` button:
-
-![run-reset](images/run-reset.png)
-
-
