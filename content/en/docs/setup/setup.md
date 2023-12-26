@@ -1,5 +1,5 @@
 ---
-title: "Set up your fork"
+title: "Set up the tutorial on GitHub"
 description: ""
 lead: ""
 date: 2023-07-26T14:06:29-04:00
@@ -14,6 +14,8 @@ toc: true
 ---
 
 To do the tutorial exercises you will need a GitHub account.
+
+The tutorial can be found at [github.com/scientific-software-reviewers/tutorial](https://github.com/scientific-software-reviewers/tutorial)
 
 ## Setup your fork
 
