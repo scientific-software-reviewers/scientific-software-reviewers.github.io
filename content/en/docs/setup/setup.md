@@ -13,13 +13,22 @@ toc: true
 weight: 210
 ---
 
-To do the tutorial exercises you will need a GitHub account.
+To do the tutorial exercises interactively you will need a GitHub account.
 
-The tutorial can be found at [github.com/scientific-software-reviewers/tutorial](https://github.com/scientific-software-reviewers/tutorial)
+If you are not ready to setup a GitHub account and run workflows, a 'take-a-look' repository with the 
+exercise issues and pull requests is available at 
+[take-a-look](https://github.com/scientific-software-reviewers/tutorial-take-a-look).
+You can follow along with the tutorial and read the issues and pull requests without having to run your own GitHub actions. 
+Skip head to the [exercises]({{<ref "/docs/exercises/ex_intro.md" >}} "exercises").
 
-## Setup your fork
+For those working through the exercises, this setup guide will take you though forking the tutorial, enabling issues, setting
+read and write permissions for workflows, and switching on workflows. 
+
 
 ### Fork the tutorial repository
+
+The tutorial repository is [github.com/scientific-software-reviewers/tutorial](https://github.com/scientific-software-reviewers/tutorial)
+
 
 ![tutorial repo](images/fork-it.png)
 

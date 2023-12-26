@@ -15,6 +15,9 @@ Welcome to code-review.org. This is an online tutorial for code review made poss
 Program, funded by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy (DOE) Office of
 Science and the National Nuclear Security Administration; and by the National Science Foundation (NSF) under Grant No. 2154495.
 
+### What is the goal?
+
+
 ### What are the main learning outcomes?
 
 When reviewing:  
@@ -41,13 +44,13 @@ Ideally, this tutorial will get you started reviewing without requiring you to k
 The text exercises make no assumptions about coding knowledge. Text exercise 1 is a baking recipe. 
 Text exercise 2 is an example of culturally specific mixup. These can occur when writing documentation for a global audience.
 Variations in cultural knowledge always exist and it is important to have this in mind when writing or reviewing.
-Text exercise 3 is some origami instructions, 
+Text exercise 3 is some origami instructions, for some hands-on 'hands-on' reviewing.
 
 The exercises that use code are in Python and in Fortran. You can do either or both!
 Python is used by people across various domains by people with various scientific and non-scientific backgrounds.  The python exercises 
 will be at the "introduction to python level" found in "learn python" tutorials. 
 Fortran has a more restricted user base in terms of which domains people work in. These domains typically have numerical code. For Fortran
-exercise 1, some mathematics knowledge is assumed. Fortran exercise 2 is a refactoring exercise. 
+exercise 1, some mathematics knowledge is assumed. Fortran exercise 2 is a refactoring exercise.
 
 ### Help I don't have a GitHub account!
 
