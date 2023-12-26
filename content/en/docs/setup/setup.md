@@ -9,8 +9,8 @@ images: []
 menu:
   docs:
     parent: "setup"
-weight: 120
 toc: true
+weight: 210
 ---
 
 To do the tutorial exercises you will need a GitHub account.

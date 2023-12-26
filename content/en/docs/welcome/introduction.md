@@ -1,19 +1,19 @@
 ---
-title: "Introduction"
+title: "A online tutorial for Code Review"
 description: "Code Review"
-lead: "Code Review"
-date: 2020-10-06T08:48:57+00:00
-lastmod: 2020-10-06T08:48:57+00:00
+lead: ""
 draft: false
 images: []
 menu:
   docs:
     parent: "welcome"
-weight: 100
 toc: true
+weight: 110
 ---
 
-Welcome to Code Review. 
+Welcome to code-review.org. This is an online tutorial for code review made possible by the Better Scientific Software Fellowship
+Program, funded by the Exascale Computing Project (17-SC-20-SC), a collaborative effort of the U.S. Department of Energy (DOE) Office of
+Science and the National Nuclear Security Administration; and by the National Science Foundation (NSF) under Grant No. 2154495.
 
 ### What are the main learning outcomes?
 
@@ -28,7 +28,7 @@ When reviewing:
 * Would you except the pull request as it is now? Are your suggested changes must-do? nice-to-have? nitpicks? How would you communicate this?
 * Do you spend a lot of time reviewing the code style?  Is it worth having a style guide for contributors? Can you make use of an existing style guide? Or a linter?
 
-When workng on your own contributions:  
+When working on your own contributions:  
 
 * When putting in a pull request, how can you make it easy for a reviewer to understand what you have done?
 * What makes a good pull request, what makes a bad pull request?
@@ -37,12 +37,22 @@ Would you use a tool such as [commitizen](http://commitizen.github.io/cz-cli/) t
 
 ### What prerequisite knowledge does someone need?
 
-Ideally, it would be good to have minimum coding knowledge to get started reviewing.  The text exercises make no assumptions about coding
-knowledge. Variations in cultural knowledge always exist and it is important to have this in mind when writing or reviewing.
-Text exercise 2 is an example of culturally specific mixup. 
+Ideally, this tutorial will get you started reviewing without requiring you to know any programing languages. 
+The text exercises make no assumptions about coding knowledge. Text exercise 1 is a baking recipe. 
+Text exercise 2 is an example of culturally specific mixup. These can occur when writing documentation for a global audience.
+Variations in cultural knowledge always exist and it is important to have this in mind when writing or reviewing.
+Text exercise 3 is some origami instructions, 
+
+The exercises that use code are in Python and in Fortran. You can do either or both!
 Python is used by people across various domains by people with various scientific and non-scientific backgrounds.  The python exercises 
 will be at the "introduction to python level" found in "learn python" tutorials. 
 Fortran has a more restricted user base in terms of which domains people work in. These domains typically have numerical code. For Fortran
-exercise 1, some mathematics knowledge is assumed. 
+exercise 1, some mathematics knowledge is assumed. Fortran exercise 2 is a refactoring exercise. 
 
+### Help I don't have a GitHub account!
+
+Part of the tutorial is getting familiar with GitHub, but setting up a GitHub account and setting up the tutorial may be a high bar to entry. 
+One of the goals of this project is to get people looking at open source software. With this in mind, a 'take-a-look' repository with the 
+exercise issues and pull requests is available at [take-a-look](https://github.com/scientific-software-reviewers/tutorial-take-a-look).
+You can follow along with the tutorial and read the issues and pull requests without having to run your own GitHub actions. 
 

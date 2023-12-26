@@ -2,15 +2,13 @@
 title: "Create the Exercises"
 description: ""
 lead: ""
-date: 2023-07-26T14:06:29-04:00
-lastmod: 2023-07-26T14:06:29-04:00
 draft: false
 images: []
 menu:
   docs:
-    parent: "welcome"
-weight: 130
+    parent: "setup"
 toc: true
+weight: 220
 ---
 
 There are two GitHub workflows for the tutorials.
