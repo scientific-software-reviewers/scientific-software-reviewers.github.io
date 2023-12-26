@@ -1,17 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome on</title><link>/docs/welcome/</link><description>Recent content in Welcome on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="/docs/welcome/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>/docs/welcome/introduction/</link><pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate><guid>/docs/welcome/introduction/</guid><description>Welcome to Code Review.</description></item><item><title>GitHub</title><link>/docs/welcome/git-hub-account/</link><pubDate>Wed, 26 Jul 2023 14:06:29 -0400</pubDate><guid>/docs/welcome/git-hub-account/</guid><description>To do the tutorial exercises you will need a GitHub account.</description></item><item><title>Set up the tutorial</title><link>/docs/welcome/setup/</link><pubDate>Wed, 26 Jul 2023 14:06:29 -0400</pubDate><guid>/docs/welcome/setup/</guid><description>Setup your fork # Fork the tutorial repository # Uncheck Copy the main branch only and click Create fork
-You&amp;rsquo;ll see this message as your fork is being created:
-After a few seconds you will see your fork.
-Enable issues # The tutorial makes use of GitHub issues. To enable issues click the Settings tab
-Scroll down to features and click Issues:
-Enable read and write permissions for workflows # By default, write permissions are not enabled for workflows.</description></item><item><title>Create the Exercises</title><link>/docs/welcome/exercises/</link><pubDate>Wed, 26 Jul 2023 14:06:29 -0400</pubDate><guid>/docs/welcome/exercises/</guid><description>There are two GitHub workflows for the tutorials.
-create_exercises creates the exercises.
-reset_exercises clears the exercises so you can start afresh.
-Workflows # To get to the workflows, click the Actions tab
-Create the Exercises # To create the exercises, click create_exercises from the menu on the left
-Then click Run workflow which will bring up a pop up menu:
-Choose the Language exercises. Text creates review exercises that do not require and code knowledge.</description></item><item><title>Reset the Exercises</title><link>/docs/welcome/reset/</link><pubDate>Wed, 26 Jul 2023 14:06:29 -0400</pubDate><guid>/docs/welcome/reset/</guid><description>There are two GitHub workflows for the tutorials.
-create_exercises creates the exercises.
-reset_exercises clears the exercises so you can start afresh.
-If you would like to close all the issues and pull requests at once, you can use the reset_exercises action. To get to the workflows, click the Actions tab
-Click reset_exercises from the menu on the left
-click Run workflow to open up a menu, and click the green Run workflow button:</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome on</title><link>/docs/welcome/</link><description>Recent content in Welcome on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="/docs/welcome/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>/docs/welcome/introduction/</link><pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate><guid>/docs/welcome/introduction/</guid><description>Welcome to Code Review.
+What are the main learning outcomes? # When reviewing:
+Does the pull request address the issue? Are there any deal breakers that would stop you accepting the changes? Can you suggest any improvements? What is a good way to phrase your suggested improvements? Is the solution overly complicated? For an example of an overly complicated solution, see the famous fizz buzz in Tensorflow. Are the comments up to date, necessary, helpful?</description></item></channel></rss>

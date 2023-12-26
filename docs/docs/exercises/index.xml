@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Exercises on</title><link>/docs/exercises/</link><description>Recent content in Exercises on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 25 Jan 2022 14:40:56 +0100</lastBuildDate><atom:link href="/docs/exercises/index.xml" rel="self" type="application/rss+xml"/><item><title>Tutorial Exercises</title><link>/docs/exercises/ex_intro/</link><pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate><guid>/docs/exercises/ex_intro/</guid><description>There are three sets of exercises. Running the workflow will generate the text, python, or Fortran exercises
+If you do not want to
+Some GitHub basics.
+The description of the problem is
+Text # Python # Fortran #</description></item></channel></rss>
