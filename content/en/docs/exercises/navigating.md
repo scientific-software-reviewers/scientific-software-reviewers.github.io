@@ -53,22 +53,3 @@ The pull request has a description of what has been proposed and which issue is 
 The [take-a-look](https://github.com/scientific-software-reviewers/tutorial-take-a-look) repository
 also has review comments.  You'll add your own review comments and suggestion to your fork of the
 tutorial as you work through the exercise. 
-
-## Examining Pull requests
-
-
-There are a few things to look at when you first approach a pull request.
-
-* How many lines of code have been added or removed
-* How many files have been changed
-* How many commits were made
-
-These are circled below in pink, and these will give you an idea of how big the pull request is. 
-
-![look-at-pull](images/look-at-pull.png)
-
-The lines of code changed is show by the green/red +/-. In this case 14 new lines, 10 lines removed:
-
-![lines-changed](images/lines-changed.png)
-
-Click on 'Files changed' to see 
