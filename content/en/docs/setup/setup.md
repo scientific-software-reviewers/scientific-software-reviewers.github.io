@@ -1,5 +1,5 @@
 ---
-title: "Set up the tutorial on GitHub"
+title: "Set up the Tutorial on GitHub"
 description: ""
 lead: ""
 date: 2023-07-26T14:06:29-04:00

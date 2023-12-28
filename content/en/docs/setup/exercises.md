@@ -33,7 +33,7 @@ Then click `Run workflow` which will bring up a pop up menu:
 
 ![run-workflow](images/run-workflow.png)
 
-Choose the `Language` exercises. `Text` creates review exercises that do not require and code knowledge. 
+Choose the `Language` exercises. `Text` creates review exercises that do not require any code knowledge. 
 The other options are code review exercises specific to a particular programming language.
 
 ![language](images/language.png)

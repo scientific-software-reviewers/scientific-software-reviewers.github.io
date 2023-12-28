@@ -11,7 +11,8 @@ toc: true
 weight: 310
 ---
 
-There are three sets of exercises, all on GitHub.
+There are three sets of exercises, all on GitHub. Follow the [setup](/docs/setup/setup) instructions 
+to create your own tutorial repository to work on.
 
 If you are not ready to setup a GitHub account and run workflows, a 'take-a-look' repository with the 
 exercise issues and pull requests is available at [take-a-look](https://github.com/scientific-software-reviewers/tutorial-take-a-look).

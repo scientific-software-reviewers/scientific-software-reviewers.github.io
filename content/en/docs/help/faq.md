@@ -16,6 +16,7 @@ weight: 410
 - Contribute a blog article
 - Add a tutorial section
 - Create a code review example
+- [Get Involved!](/get-involved/)
 
 ## Can I do the tutorial without a GitHub account?
 
@@ -23,7 +24,7 @@ weight: 410
 version. This will let you read the issues and pull requests without having to run your own GitHub actions. 
 
 
-
+## Is there a glossary of GitHub terms?
 
 
 
