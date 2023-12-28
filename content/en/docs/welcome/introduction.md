@@ -23,7 +23,7 @@ If you’ll indulge me a 20 year old British comedy reference, a quote from horr
 Which is a hilarious joke for writers, but a sobering reality for scientific software. 
 It is not that unusual for people working in science to write more code than they read. But **we can change that**, right?
 
-Here are the are the main
+ The goal of the project is to enable everyone involved in Scientific Software to:
 
 * Become a better reviewer. Reviewing is hard! You really have to take into account how to communicate, 
   constructive and actionable criticism. Practice reviewing in a no consequence environment using the tutorial.
@@ -34,14 +34,14 @@ Here are the are the main
   some psychological effect behind this, and it would be great to change this and get people showing even 
   pseudo code to each other.  Sharing early and often becomes second nature.
 
-* Code review as a collaboration tool. Use code review as part of your onboarding new team members and collaborators. Share
+* Use code review as a collaboration tool. Use code review as part of your onboarding new team members and collaborators. Share
   knowledge and know-how between team members.  There is a real benefit to being on both sides of the review. 
   We’re trying to humanize this process, and build rapport between people. 
   
 * Read more code than you write! Take a peek into your favorite open source tools.  Encourage people to have 
   a look inside the software they are using. How does this work? Why did they do this? 
  
-* More open source contributors, and more open source reviewers.  This is a lofty goal, but there are a lot of 
+* Enable more open source contributors, and more open source reviewers.  This is a lofty goal, but there are a lot of 
   people out there who would make really good software engineers, and they don’t know it yet. 
 
 
