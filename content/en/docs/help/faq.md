@@ -17,9 +17,6 @@ weight: 410
 - Add a tutorial section
 - Create a code review example
 
-{{< alert >}} hello {{< /alert >}}
-
-
 ## Can I do the tutorial without a GitHub account?
 
 - Yes, follow along with the [take-a-look](https://github.com/scientific-software-reviewers/tutorial-take-a-look).
