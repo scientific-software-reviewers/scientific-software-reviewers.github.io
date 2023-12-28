@@ -24,7 +24,7 @@ Click on issues to get to the list of issues.
 ![navigate-issue](images/navigate-issue.png)
 
 
-The issues and pull requests are labelled with the language: Text, python, Fortran.  
+The issues and pull requests are labelled with the language: text, python, Fortran.  
 Labels are a way to filter issues and pull requests. Typically on a repository you'll see
 labels such as 'Bug', 'Enhancement', 'Good First Issue'.  
 
@@ -37,9 +37,10 @@ issue:
 
 ![issue-nav](images/issue-nav.png)
 
-There are several places that show there is a pull request linked to this issue.  
+There are several places that show there is a pull request linked to this issue. 
 The pink circles in the image below show where you can find linked pull requests from 
-an issue page. Note the actual issue numbers (#2 in this example) may be different depending on 
+an issue page. Note the actual issue numbers (#2 in this example) and pull request 
+numbers (#5 in this example) may be different depending on 
 how many times you have created and reset the exercises. 
  
 ![link-pull-issue](images/link-pull-issue.png)

@@ -22,7 +22,7 @@ workflow will generate the text, python, or Fortran exercises in your fork of th
 
 The exercises are in no particular order. You can start with whichever seems the most 
 interesting/applicable to you. Each exercise consists of a GitHub issue describing a problem
-and a pull request which is a proposed solution to issue. **Your mission is to review the proposed
+and a pull request which is a proposed solution to the issue. **Your mission is to review the proposed
 solution.**
 
 An issue may be a complaint from a user, a bug report, a request for a new feature. 

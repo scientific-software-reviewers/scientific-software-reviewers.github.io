@@ -14,7 +14,8 @@ weight: 350
 For each exercise:
 
 The issue describes the problem. Read the code, does the issue describe the
-problem accurately?
+problem accurately? In each issue there are some questions to think about
+when looking at the code. 
  
 The pull request is a solution to the issue.  
 Review the pull request, does the pull request fix the issue?
