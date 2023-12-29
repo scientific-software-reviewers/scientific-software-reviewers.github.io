@@ -26,6 +26,9 @@ version. This will let you read the issues and pull requests without having to r
 
 ## Is there a glossary of GitHub terms?
 
+- Yes available at [GitHub glossary](https://docs.github.com/en/get-started/quickstart/github-glossary).
+
+
 
 
 
