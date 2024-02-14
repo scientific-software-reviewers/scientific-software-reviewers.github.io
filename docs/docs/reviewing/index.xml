@@ -10,4 +10,7 @@ Consistency
 Depending on your experience you may focus on one, many, or all of these.
 The main question to ask yourself when reviewing code is:
 Does the pull request improve the existing code?
-Are there unnecessary changes?</description></item></channel></rss>
+Are there unnecessary changes?</description></item><item><title>Finding Community</title><link>/docs/reviewing/community/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/reviewing/community/</guid><description>You are not alone.
+Building community and building great teams takes time, skill, and dedicated effort. Luckily, you do not have to start from scratch!
+If you are the only person person writing code on your team, join an RSE organization and find your people.
+US-RSE. A community of people who make research software happen. Society of Research Software Engineering which emerged from the successful grass-roots RSE movement and is the successor to the UK RSE Association.</description></item></channel></rss>
