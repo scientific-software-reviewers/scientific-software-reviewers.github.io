@@ -64,8 +64,17 @@ When giving feedback on code, try to give comments that:
 
 ### How do organizations decide if code is better?
 
+Take a look at organizations you admire or appreciate. What practices do they employ for code review?
+Below are some examples of code review guides from well known organizations. 
+
 [Google eng-practices](https://google.github.io/eng-practices/review/reviewer/looking-for.html)
+
+[Microsoft Code with Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/code-reviews/)
+
+[Python Discord, Code Reviews: A Primer](https://www.pythondiscord.com/pages/guides/pydis-guides/code-reviews-primer/)
+
 
 ---
 
-[1] WINTERS, T., MANSHRECK, T., & WRIGHT, H. (2020). Software engineering at Google: lessons learned from programming over time.
+[1]: WINTERS, T., MANSHRECK, T., & WRIGHT, H. (2020). Software engineering at Google: lessons learned from programming over time.
+
