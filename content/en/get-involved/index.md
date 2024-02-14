@@ -10,6 +10,6 @@ Join the GitHub organization [scientific-software-reviewers](https://github.com/
 
 Contribute examples of Good, Bad, and Ugly code reviews.
 
-
 Add to the code review tutorial.
 
+Write a [blog](/blog) post. 
