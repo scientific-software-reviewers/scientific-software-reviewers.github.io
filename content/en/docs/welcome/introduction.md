@@ -69,7 +69,7 @@ When reviewing:
    * What is a good way to phrase your suggested improvements?
 * Is the solution overly complicated? For an example of an overly complicated solution, see the famous [fizz buzz in Tensorflow](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/).
 * Are the comments up to date, necessary, helpful?
-* Would you except the pull request as it is now? Are your suggested changes must-do? nice-to-have? nitpicks? How would you communicate this?
+* Would you accept the pull request as it is now? Are your suggested changes must-do? nice-to-have? nitpicks? How would you communicate this?
 * Do you spend a lot of time reviewing the code style?  Is it worth having a style guide for contributors? Can you make use of an existing style guide? Or a linter?
 
 When working on your own contributions:  
